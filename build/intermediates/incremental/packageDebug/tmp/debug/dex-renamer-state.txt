@@ -1,0 +1,4 @@
+#Sat May 23 16:12:13 IST 2020
+base.0=C\:\\Users\\Internet\\Desktop\\Second App\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
